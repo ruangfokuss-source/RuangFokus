@@ -1,0 +1,8 @@
+{
+  "name": "Aether AI Chat & Code Agent",
+  "description": "An industry-standard conversational AI and intelligent code engineering workspace powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
